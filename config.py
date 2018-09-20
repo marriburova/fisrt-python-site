@@ -2,7 +2,7 @@ WTF_CSRF_ENABLED = True
 SECRET_KEY = '1q@W3e$R'
 
 
-MYSQL_DATABASE_USER = 'python'
-MYSQL_DATABASE_PASSWORD = 'python123'
-MYSQL_DATABASE_DB = 'python'
-MYSQL_DATABASE_HOST = 'localhost'
+MYSQL_DB_HOST = 'localhost'
+MYSQL_DB_NAME = 'python'
+MYSQL_DB_USER = 'python'
+MYSQL_DB_PASS = 'python123'
